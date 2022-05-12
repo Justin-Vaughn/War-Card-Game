@@ -6,7 +6,6 @@ The player and computer will put a card up against each other. The winner of eac
 
 # Pictures
 
+![War card game](https://i.imgur.com/QMzk1ul.png)
 
-https://i.imgur.com/QMzk1ul.png
-
-https://i.imgur.com/D6HBGxC.png
+![War card game in action](https://i.imgur.com/D6HBGxC.png)
